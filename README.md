@@ -1,1 +1,1 @@
-visit: https://romannihal.github.io/Protfolio/
+visit: https://romannihal.github.io/Portfolio/
